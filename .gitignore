@@ -13,6 +13,7 @@ backend/__pycache__/
 backend/*.pyc
 backend/*.pyo
 backend/env/
+backend/.env
 backend/venv/
 backend/.venv/
 backend/test.db
@@ -31,3 +32,4 @@ frontend/.env.*
 
 # Bun
 frontend/bun.lockb
+.env
