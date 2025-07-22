@@ -85,6 +85,7 @@ export function InferenceStatusIndicator() {
         color: text,
         borderRadius: 16,
         minWidth: 160,
+        maxWidth: 240,
         minHeight: 40,
         padding: "8px 24px",
         fontWeight: 500,
