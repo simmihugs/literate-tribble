@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database
+test.db
+*.sqlite3
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# VSCode etc.
+.vscode/
+.idea/
+
+# Mypy, coverage, test, etc.
+.mypy_cache/
+.pytest_cache/
+.coverage
+.coverage.*
+.pytest_cache/
+.cache/
+.eggs/
+*.egg-info/
+.env
+.Python
+
+# PyInstaller
+*.spec

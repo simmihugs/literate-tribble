@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+websockets
+sqlalchemy 
+databases
+sqlmodel
+pydantic

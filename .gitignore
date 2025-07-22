@@ -1,0 +1,33 @@
+# Mac/Linux junk
+.DS_Store
+Thumbs.db
+
+# System/Editor folders
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Backend
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/env/
+backend/venv/
+backend/.venv/
+backend/test.db
+backend/*.sqlite3
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.env
+backend/.Python
+backend/.coverage
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env.*
+
+# Bun
+frontend/bun.lockb
